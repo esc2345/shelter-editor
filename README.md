@@ -3,4 +3,6 @@ Fallout Shelter - Save Editor
 
 Using the decryptor from http://fossd.bitballoon.com/
 
-Live demo (Rakion99 Branch): https://rakion99.github.io/shelter-editor/
+Forked from https://github.com/rakion99/shelter-editor
+
+Live demo: https://esc2345.github.io/shelter-editor/
